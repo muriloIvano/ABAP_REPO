@@ -16,4 +16,4 @@ Os dados são combinados por meio de um SELECT com INNERJOIN e apresentados em u
 
 ## Objetivo
 
-Demonstrar a montagem de um relatório de voos utilizando o INNER JOIN entre tabelas padrão do SAP e exibição via ALV com layout simples e funcional.
+Demonstrar a montagem de um relatório de voos utilizando o INNER JOIN entre tabelas padrão do SAP e exibição via ALV.
