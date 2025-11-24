@@ -1,2 +1,2 @@
 # ABAP_REPO
-Repositório de exercícios / projetos em abap.
+Repositório de exercícios e projetos em abap.
